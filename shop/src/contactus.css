@@ -1,0 +1,64 @@
+#a{
+    width: 500px;
+}
+
+#contact{
+    border: 1px solid black;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    width: 850px;
+    height: 600px;
+    position: relative;
+    left: 480px;
+    top: 230px; 
+}
+
+h1{
+    position: relative;
+    text-align: center;
+    display: flex;
+     justify-content: center;
+    padding: 5px, 20px;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 12px;
+    position: relative;
+    /* left: 260px; */
+    width: 250px;
+    height: 26px;
+
+}
+
+textarea{
+    border: 1px solid black;
+    border-radius: 12px;
+    position: relative;
+    /* left: 500px; */
+    width: 350px;
+    
+}
+
+
+button{
+    border: 1px solid black;
+    border-radius: 12px;
+    position: relative;
+    /* left: 260px;  */
+    width: 350px;
+    height: 30px;
+    background-color: cadetblue;
+}
+
+#exit{
+    background-color: rgb(159, 177, 142);
+    display: flex;
+    justify-content: center;
+}
+
+
+body{
+    background-color:rgb(159, 177, 142); ;
+}
+
